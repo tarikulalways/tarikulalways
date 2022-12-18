@@ -12,14 +12,5 @@ Skills: / HTML /CSS/Bootstrap/JavaScript/jQuery/PHP/MySQL
 - 🌱 I’m currently learning WordPress Theme Development 
 - 💬 Ask me about : :) / HTML /CSS/Bootstrap/JavaScript/jQuery/PHP/MySQL 
 - 📫 How to reach me: freelancertarik385@gmail.com 
-  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarikulalways)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikulalways&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/tarikulalways)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tarikulalways)  
 
 ![Profile views](https://gpvc.arturio.dev/tarikulalways)  
