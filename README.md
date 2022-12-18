@@ -11,5 +11,5 @@ Skills: / HTML /CSS/Bootstrap/JavaScript/jQuery/PHP/MySQL
 
 - 🔭 I’m currently working on WordPress CMS 
 - 🌱 I’m currently learning WordPress Theme Development 
-- 💬 Ask me about : :) / HTML /CSS/Bootstrap/JavaScript/jQuery/PHP/MySQL 
+- 💬 Ask me about :) / HTML /CSS/Bootstrap/JavaScript/jQuery/PHP/MySQL 
 - 📫 How to reach me: freelancertarik385@gmail.com 
