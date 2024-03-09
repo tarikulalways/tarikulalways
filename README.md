@@ -1,7 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/tarikulalways)  (https://github.com/tarikulalways/tarikulalways/assets/120883932/884e4ba8-7cc0-43c2-8102-5761014a2940)
-
-![I am Professional Web Designer & WordPress Developer](https://media.licdn.com/dms/image/D5616AQGimUqBJaOgZQ/profile-displaybackgroundimage-shrink_350_1400/0/1666080316502?e=1677110400&v=beta&t=0A7kcGF9GRca7ZvsRZB8sT2p7hhn3h26-TFO9awHxNs)
-
 ### Hi there  my name is Md Tarikul Islam
 #### I am Professional Web Designer & WordPress Developer
 
