@@ -5,5 +5,5 @@
 Skills: / HTML /CSS/Bootstrap/JavaScript/jQuery/PHP/MySQL
 
 - 🔭 I’m currently working on <b>LARAVEL</b>
-- 💬 Ask me about 😊 / HTML /CSS /Bootstrap /JavaScript /jQuery /Axios /PHP /LARAVEL /MySQL /git & GitHub 
+- 💬 Ask me about 😊 / HTML /CSS /Bootstrap /JavaScript /jQuery /Axios /PHP /LARAVEL /MySQL /RestAPI Development /VS Code /Code Canyon
 - 📫 How to reach me: 🤙 tarikulislam6004@gmail.com 
