@@ -10,7 +10,6 @@ I’m a **WordPress Theme & Plugin Developer** passionate about creating high-qu
 ---
 
 ### 👨‍💻 Skills & Experience:
----------------------------
 
 <table width="100%">
   <tr>
