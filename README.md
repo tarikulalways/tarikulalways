@@ -11,8 +11,7 @@ I’m a **WordPress Theme & Plugin Developer** passionate about creating high-qu
 
 ### 👨‍💻 Skills & Experience:
 
-<center>
-<table>
+<table width="100%">
   <tr>
     <td>✅ HTML</td>
     <td>✅ PHP</td>
@@ -50,7 +49,6 @@ I’m a **WordPress Theme & Plugin Developer** passionate about creating high-qu
     <td></td>
   </tr>
 </table>
-</center>
 
 ---
 
