@@ -10,23 +10,43 @@ I’m a **WordPress Theme & Plugin Developer** passionate about creating high-qu
 ---
 
 ### 👨‍💻 Skills & Experience:
-- ✅ HTML
-- ✅ CSS
-- ✅ Bootstrap
-- ✅ JavaScript
-- ✅ jQuery
-- ✅ Axios
-- ✅ PHP
-- ✅ MySQL
-- ✅ RestAPI Development
-- ✅ VS Code
-- ✅ WordPress Theme Development
-- ✅ WordPress Theme Customization
-- ✅ Elementor
-- ✅ PSD to WordPress
-- ✅ Figma to WordPress
-- ✅ wordpress.org
-- ✅ Themeforest
+<table>
+  <tr>
+    <td>✅ HTML</td>
+    <td>✅ PHP</td>
+  </tr>
+  <tr>
+    <td>✅ CSS</td>
+    <td>✅ MySQL</td>
+  </tr>
+  <tr>
+    <td>✅ Bootstrap</td>
+    <td>✅ RestAPI Development</td>
+  </tr>
+  <tr>
+    <td>✅ JavaScript</td>
+    <td>✅ VS Code</td>
+  </tr>
+  <tr>
+    <td>✅ jQuery</td>
+    <td>✅ WordPress Theme Development</td>
+  </tr>
+  <tr>
+    <td>✅ Axios</td>
+    <td>✅ WordPress Theme Customization</td>
+  </tr>
+  <tr>
+    <td>✅ Elementor</td>
+    <td>✅ PSD to WordPress</td>
+  </tr>
+  <tr>
+    <td>✅ Figma to WordPress</td>
+    <td>✅ wordpress.org</td>
+  </tr>
+  <tr>
+    <td>✅ Themeforest</td>
+  </tr>
+</table>
 
 ---
 
