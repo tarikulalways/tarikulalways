@@ -1,7 +1,7 @@
 ### Hi I'm Md. Tarikul Islam
 
 ### 🚀 About Me<hr/>
-<p>I’m a <b>LARAVEL</b> developer passionate about making error-free software with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with <b>LARAVEL</b> but some technologies I enjoy working with include JavaScript as well as PHP</p>
+<p>I’m a WordPress Theme & Plugin Developer passionate about creating high-quality, error-free websites and plugins with 100% client satisfaction. I thrive on solving real-world problems and continuously learning and sharing knowledge within the development community. My approach is strategic and goal-oriented, always working with a clear vision of the result. I take pride in delivering quality work and maintaining open, effective communication. While my expertise lies in WordPress, I also enjoy working with PHP and JavaScript to build dynamic, responsive, and user-focused solution</p>
 
 ### 👨‍💻 Skills & Experience:<hr>
 
@@ -12,11 +12,16 @@
 - ✅ jQuery
 - ✅ Axios
 - ✅ PHP
-- ✅ LARAVEL
 - ✅ MySQL
 - ✅ RestAPI Development
 - ✅ VS Code
-- ✅ Code Canyon<br><br>
+- ✅ WordPress Theme Development
+- ✅ WordPress Theme Customization
+- ✅ Elementor
+- ✅ PSD to WordPress
+- ✅ Figma to WordPress
+- ✅ wordpress.org
+- ✅ Themeforest<br><br>
 
 ### ☕ Connect with me!<hr>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tarikulalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarikulalways/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tarikulalways)<br/><br/>
