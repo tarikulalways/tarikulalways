@@ -1,4 +1,4 @@
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github](https://media.licdn.com/dms/image/v2/D5616AQEEmX_ID1Dg8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729572635214?e=1736380800&v=beta&t=aSkFf027_aktkxQsgaD7gx9etnHZypJiYe0W-Nswv-U)' height='auto'>](https://github.com/tarikulalways)
+(https://media.licdn.com/dms/image/v2/D5616AQEEmX_ID1Dg8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729572635214?e=1736380800&v=beta&t=aSkFf027_aktkxQsgaD7gx9etnHZypJiYe0W-Nswv-U)
 
 ### Hi I'm Md. Tarikul Islam
 
