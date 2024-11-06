@@ -35,7 +35,7 @@ I’m a **WordPress Theme & Plugin Developer** passionate about creating high-qu
 [<img src='https://img.icons8.com/ios-filled/50/f000/github.png' alt='github' height='30'>](https://github.com/tarikulalways)
 [<img src='https://img.icons8.com/ios-filled/50/f000/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/tarikulalways/) 
 [<img src='https://img.icons8.com/ios-filled/50/f000/facebook.png' alt='facebook' height='30'>](https://www.facebook.com/tarikulalways)
-[<img src='https://img.icons8.com/ios-filled/50/f000/wordpress.png' alt='facebook' height='30'>](https://www.facebook.com/tarikulalways)
+[<img src='https://img.icons8.com/ios-filled/50/f000/wordpress.png' alt='facebook' height='30'>](https://profiles.wordpress.org/tarikulalways/)
 ---
 
 ### 📧 For Business Query
