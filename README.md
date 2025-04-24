@@ -17,15 +17,15 @@ My mission is to create plugins that not only function flawlessly but also follo
 
 ### 🛠️ Key Skills:
 
-✅ WordPress Plugin Development
-✅ Object-Oriented Programming (OOP)
-✅ WordPress REST API
-✅ WooCommerce Plugin Customization
-✅ WP-CLI
-✅ Plugin Security & Performance Optimization
-✅ WordPress.org Plugin Submission
-✅ Custom Post Types & Admin Interfaces
-✅ Version Control (Git, SVN)
+.✅ WordPress Plugin Development
+.✅ Object-Oriented Programming (OOP)
+.✅ WordPress REST API
+.✅ WooCommerce Plugin Customization
+.✅ WP-CLI
+.✅ Plugin Security & Performance Optimization
+.✅ WordPress.org Plugin Submission
+.✅ Custom Post Types & Admin Interfaces
+.✅ Version Control (Git, SVN)
 
 ---
 
