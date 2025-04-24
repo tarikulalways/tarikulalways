@@ -17,15 +17,17 @@ My mission is to create plugins that not only function flawlessly but also follo
 
 ### 🛠️ Key Skills:
 
-.✅ WordPress Plugin Development
-.✅ Object-Oriented Programming (OOP)
-.✅ WordPress REST API
-.✅ WooCommerce Plugin Customization
-.✅ WP-CLI
-.✅ Plugin Security & Performance Optimization
-.✅ WordPress.org Plugin Submission
-.✅ Custom Post Types & Admin Interfaces
-.✅ Version Control (Git, SVN)
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-Development-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WooCommerce-Customization-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP--CLI-Automation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-&-Performance-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WP.org-Plugin_Submission-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/CPT-&-Admin_UI-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git/SVN-Version_Control-critical?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
