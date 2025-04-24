@@ -17,17 +17,11 @@ My mission is to create plugins that not only function flawlessly but also follo
 
 ### 🛠️ Key Skills:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-Development-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WooCommerce-Customization-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP--CLI-Automation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-&-Performance-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WP.org-Plugin_Submission-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/CPT-&-Admin_UI-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git/SVN-Version_Control-critical?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+✅ WordPress Plugin Development &emsp; ✅ OOP &emsp; ✅ REST API  
+✅ WooCommerce Customization &emsp; ✅ WP-CLI  
+✅ Plugin Security & Optimization &emsp; ✅ WP.org Submission  
+✅ Custom Post Types & Admin UI &emsp; ✅ Git, SVN
+
 
 ---
 
