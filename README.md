@@ -5,29 +5,27 @@
 ---
 
 ### 🚀 About Me
-I’m a **WordPress Theme & Plugin Developer** passionate about creating high-quality, error-free websites and plugins with 100% client satisfaction. I thrive on solving real-world problems and continuously learning and sharing knowledge within the development community. My approach is strategic and goal-oriented, always working with a clear vision of the result. I take pride in delivering quality work and maintaining open, effective communication. While my expertise lies in WordPress, I also enjoy working with **PHP** and **JavaScript** to build dynamic, responsive, and user-focused solutions.
+As an ***Expert WordPress Plugin Developer***, I specialize in building robust, scalable, and performance-driven plugins tailored for real-world use. With deep knowledge in ***OOP (Object-Oriented Programming)***, I structure code that's clean, modular, and easy to maintain — ideal for long-term plugin growth and collaboration.
+
+I work extensively with the ***WordPress REST API*** to enable seamless communication between services, and I have strong hands-on experience developing and customizing WooCommerce plugins to extend and enhance eCommerce functionality.
+
+To boost development efficiency and streamline tasks, I utilize WP-CLI, and I’m proud to be an active ***WordPress.org plugin contributor***, having published and maintained plugins for the global WordPress community.
+
+My mission is to create plugins that not only function flawlessly but also follow best practices in security, performance, and UX. Whether it’s a custom solution or a product for the WordPress repository, I build with precision, purpose, and passion.
 
 ---
 
-### 👨‍💻 Skills & Experience:
+### 🛠️ Key Skills:
 
-- ✅ HTML
-- ✅ CSS
-- ✅ Bootstrap
-- ✅ JavaScript
-- ✅ jQuery
-- ✅ Axios
-- ✅ PHP
-- ✅ MySQL
-- ✅ RestAPI Development
-- ✅ VS Code
-- ✅ WordPress Theme Development
-- ✅ WordPress Theme Customization
-- ✅ Elementor
-- ✅ PSD to WordPress
-- ✅ Figma to WordPress
-- ✅ wordpress.org
-- ✅ Themeforest
+✅ WordPress Plugin Development
+✅ Object-Oriented Programming (OOP)
+✅ WordPress REST API
+✅ WooCommerce Plugin Customization
+✅ WP-CLI
+✅ Plugin Security & Performance Optimization
+✅ WordPress.org Plugin Submission
+✅ Custom Post Types & Admin Interfaces
+✅ Version Control (Git, SVN)
 
 ---
 
