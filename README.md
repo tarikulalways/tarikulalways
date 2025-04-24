@@ -1,4 +1,4 @@
-![Profile Image](https://media.licdn.com/dms/image/v2/D5616AQGbwHDma70ciA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731763487832?e=1743638400&v=beta&t=G_JIulNQ1E7ros-EUliNbMkN9i00JhUVTvTdZjk0XEA)
+[![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4E16AQEXwB1Omv3t1A/profile-displaybackgroundimage-shrink_350_1400/B4EZZlr38GHoAc-/0/1745462723809?e=1750896000&v=beta&t=wvZ9lbiq4ZMtvnBrNE9F982ytqcbmVYPZ_pZKGZxLZM)](https://www.linkedin.com/in/tarikulalways)
 
 ### Hi, I'm Md. Tarikul Islam 👋
 
